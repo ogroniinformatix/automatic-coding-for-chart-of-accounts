@@ -20,10 +20,10 @@
 #
 ################################################################################
 {
-    'name': 'Odoo17 Chart Of Accounts Auto Codding',
+    'name': 'Odoo17 Chart of Accounts Auto Codding',
     'version': '17.0.1.0.0',
     'category': 'Accounting',
-    'summary': "Odoo17 Chart Of Accounts Auto Codding–"
+    'summary': "Odoo17 Chart of Accounts Auto Codding–"
                "Enterprise Edition",
     'description': "This module creates options for Automatic code of Accounting "
                    "chart of accounts in odoo17 Enterprise edition",
